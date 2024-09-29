@@ -14,7 +14,7 @@ The project has used historical data and technical indicators such as Moving Ave
 
 ## Data Extraction and Preprocessing
 Stock data is extracted through the `hist_stock_data` function, fetching the historical gold prices between January 2003 and July 2021. The following technical indicators are calculated:
-- **Moving Average
+- **Moving Average**
 - **MACD (Moving Average Convergence Divergence)**
 - **Bollinger Bands**
 - **Stochastic Oscillator**
